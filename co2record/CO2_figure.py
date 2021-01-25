@@ -44,12 +44,12 @@ if language_version=='Dutch':
     
 if language_version=='German':
     #Not really German yet
-    title = r'Historisches CO$_2$ Conzentration'
-    ice_age = 'Eistijd- \n cycli'
-    indust= 'Anfang Industriële Revolution'
-    co2con = 'CO$_2$ concentration (ppmv)'
-    thyrago = 'Tausenden Jahre ehe'
-    year = 'Jahr (CE)'
+    title = r'Historische CO$_2$-Konzentration'
+    ice_age = 'Eiszeit- \n Zyklen'
+    indust= 'Beginn der Industriellen Revolution'
+    co2con = 'CO$_2$-Konzentration (ppmv)'
+    thyrago = 'Tausende Jahre zuvor'
+    year = 'Jahr (n.Chr.)'
     
     
 
