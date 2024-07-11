@@ -51,7 +51,14 @@ if language_version=='German':
     thyrago = 'Tausenden Jahre ehe'
     year = 'Jahr (CE)'
     
-    
+if language_version=='Greek':
+    title = 'Ιστορικό Επίπεδο CO$_2$'
+    ice_age = 'Κύκλοι Παγετώνων \n'
+    indust= 'Έναρξη Βιομηχανικής Επανάστασης'
+    co2con = 'Συγκέντρωση CO$_2$ (ppmv)'
+    thyrago = 'Χιλιάδες χρόνια πριν'
+    year = 'έτος (CE)'
+
 
 
 """
